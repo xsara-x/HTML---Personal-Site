@@ -34,7 +34,9 @@ h3 {
  p{
    line-height: 2;
  }
-
+.profile-pic{
+  width:300px;
+}
 a{
   text-decoration: none;
   margin:10px 20px;
